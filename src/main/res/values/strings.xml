@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kişisel Gelişim</string>
+    <string name="stateInternet">Internet bağlantısında bir sorun oluştu.Lütfen internet bağlantını kontrol edip yeniden dene.</string>
+    <string name="video">Videolar</string>
+</resources>

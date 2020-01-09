@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="searchViewStyle">@style/searchView</item>
+        <item name="android:navigationBarColor">@android:color/holo_orange_dark</item>
+        <item name="android:statusBarColor">#FFA00B</item>
+    </style>
+
+    <style name="searchView" parent="Widget.AppCompat.SearchView">
+
+        <item name="searchIcon">@drawable/ic_search_black_24dp</item>
+        <item name="searchHintIcon">@null</item>
+        <item name="queryHint">Ara...</item>
+
+    </style>
+
+</resources>
